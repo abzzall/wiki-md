@@ -130,3 +130,5 @@ dmypy.json
 
 #idea
 .idea/
+/front/node_modules/
+/static/react/
